@@ -1,0 +1,6 @@
+﻿Логин;ФИО;Роль;Email;Активен
+user01;Иванова Мария Сергеевна;Пользователь;m.ivanova@cocoa-plus.ru;Да
+user02;Петров Алексей Викторович;Пользователь;a.petrov@cocoa-plus.ru;Да
+manager01;Соколова Анна Игоревна;Менеджер;a.sokolova@cocoa-plus.ru;Да
+manager02;Ким Дмитрий Олегович;Менеджер;d.kim@cocoa-plus.ru;Да
+admin01;Кузнецова Елена Павловна;Администратор;e.kuznetsova@cocoa-plus.ru;Да
